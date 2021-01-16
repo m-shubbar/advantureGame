@@ -12,3 +12,8 @@ We have these places in our scenario:
 - Forest
 
 ![Places in our map](img.PNG)
+
+---
+
+Splitting strings used to extract commands from user's input.
+
